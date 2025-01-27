@@ -1,4 +1,4 @@
-# Let's Cooking 🍳
+# Let's Cook 🍳
 
 **Let's Cooking** is a web app that provides comprehensive information about recipes, cooking instructions, and the ingredients required to prepare delicious dishes. Perfect for both beginners and experienced chefs looking to try new recipes easily.
 
